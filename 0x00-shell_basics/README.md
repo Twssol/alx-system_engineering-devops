@@ -5,6 +5,8 @@
 -**2-bring_me_home [file]**
 cd. change working directory to user's home directly
 -**3-listfiles [file]**
-ls -l. #list the current directory contents in long term
+ls -l. #list the current directory contents in longterm
 -**4-listmorefiles [file]**
-ls -al. #list the current directory contents including hidden files in long term
+ls -al. #list the current directory contents including hidden files in longterm
+-**5-listfilesdigitonly [file]**
+ls -al -n. #list the current directory contents including hidden files in longterm using numorical group IDs 
