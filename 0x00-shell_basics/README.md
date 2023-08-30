@@ -18,3 +18,5 @@ mv. # move files and directories to new directory.
 rm. #remove files.
 - **9-firstdirdeletion [file]**
 rmdir. #remove directory
+- **10-back[file]**
+cd -. #changes the working directory to the previous one.
