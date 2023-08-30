@@ -26,3 +26,5 @@ ls -al . .. /boot  #lists all files (even ones with names beginning with a perio
 file. #show file type
 - **13-symbolic_link [file]**
 ln -s target symbolic_name. #Create a symbolic link
+- **14-copy_html [file]**
+cp -u *.html ..  #copy all html files that doesn't exist in the perent directory from the current directory.
