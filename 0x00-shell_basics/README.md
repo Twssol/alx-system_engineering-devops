@@ -35,7 +35,10 @@ rm *~ # deletes all files in the current working directory
 - **102-tree [file]**
 mkdir -p dir1/dir2/dir3 #make tree
 - **103-commas [file]**
-ls -ampv . +#-m list seperated with commas 
+ls -ampv . 
++#-m list seperated with commas 
 +#-p put / in the end of directory
 +#-v arranged the list in sort of Digits should come first.
-
+- **school.mgc [file]**
+0	SCHOOL this school file
+!:mime school
