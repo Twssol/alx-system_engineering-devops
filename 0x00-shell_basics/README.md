@@ -33,5 +33,9 @@ mv [[:upper:]]*  #moves all files beginning with an uppercase letter to the spes
 - **101-clean_emacs [file]**
 rm *~ # deletes all files in the current working directory
 - **102-tree [file]**
-mkdir dir1 dir1/dir2 dir/dir2/dir3 #make tree
+mkdir -p dir1/dir2/dir3 #make tree
+- **103-commas [file]**
+ls -ampv . +#-m list seperated with commas 
++#-p put / in the end of directory
++#-v arranged the list in sort of Digits should come first.
 
