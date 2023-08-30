@@ -14,5 +14,7 @@ ls -al -n. #list the current directory contents including hidden files in longte
 mkdir. #make directory
 - **7-movethatfile [file]** 
 mv. # move files and directories to new directory.
-- **9-firstdelete [file]**
-rm. remove files.
+- **8-firstdelete [file]**
+rm. #remove files.
+- **9-firstdirdeletion [file]**
+rmdir. #remove directory
