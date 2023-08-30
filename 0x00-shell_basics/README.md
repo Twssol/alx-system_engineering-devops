@@ -11,4 +11,6 @@ ls -al. #list the current directory contents including hidden files in longterm
 - **5-listfilesdigitonly [file]**
 ls -al -n. #list the current directory contents including hidden files in longterm using numorical group IDs 
 - **6-firstdirectory [file]**
-mkdir. #make directory.
+mkdir. #make directory
+- **7-movethatfile [file]** 
+mv. # move files and directories to new directory.
