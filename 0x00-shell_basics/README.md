@@ -4,5 +4,7 @@
  ls. #Display the contents list of your current directory
 -**2-bring_me_home [file]**
 cd. change working directory to user's home directly
--**3-listfiles [file]
+-**3-listfiles [file]**
 ls -l. #list the current directory contents in long term
+-**4-listmorefiles [file]**
+ls -al. #list the current directory contents including hidden files in long term
