@@ -28,3 +28,5 @@ file. #show file type
 ln -s target symbolic_name. #Create a symbolic link
 - **14-copy_html [file]**
 cp -u *.html ..  #copy all html files that doesn't exist in the perent directory from the current directory.
+- **100-lets_move [file]**
+mv -u *-  #moves all files beginning with an uppercase letter to the spesific directory
