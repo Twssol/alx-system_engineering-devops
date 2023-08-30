@@ -30,6 +30,8 @@ ln -s target symbolic_name. #Create a symbolic link
 cp -u *.html ..  #copy all html files that doesn't exist in the perent directory from the current directory.
 - **100-lets_move [file]**
 mv [[:upper:]]*  #moves all files beginning with an uppercase letter to the spesific directory
-- **101-clean_emacs**
-rm *[[:~:]] # deletes all files in the current working directory
+- **101-clean_emacs [file]**
+rm *~ # deletes all files in the current working directory
+- **102-tree [file]**
+mkdir dir1 dir1/dir2 dir/dir2/dir3 #make tree
 
