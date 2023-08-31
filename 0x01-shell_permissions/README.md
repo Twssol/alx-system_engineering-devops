@@ -32,3 +32,6 @@ chmod 753 file_name
 - **10-mirror_permissions[file]**
 chmod --reference 
 #give same permissions to another file
+- **11-Directories_permissions [file]**
+chmod ugo+x directory_name 
+#gives execute permission of the directory to user,group and others
