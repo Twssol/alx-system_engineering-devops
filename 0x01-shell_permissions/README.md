@@ -24,4 +24,8 @@ chmod 554 file_name
 chmod ugo+x file_name
 #-rwxr-x--x permissin
 - **8-james_bond[file]**
-chmod o+rwx
+chmod 007 file_name
+#-------rwx permission
+- **9-John_Doe [fille]**
+chmod 753 file_name
+#-rwxr-x-wx permission
