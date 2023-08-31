@@ -21,5 +21,7 @@ chmod 700 file_name
 chmod 554 file_name 
 #-r-xr-xr-- permission
 - **7-everybody [file]**
-chmod 777 file_name
-#-rwxrwxrwx permission
+chmod ugo+x file_name
+#-rwxr-x--x permissin
+- **8-james_bond[file]**
+chmod o+rwx
