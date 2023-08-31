@@ -16,7 +16,10 @@ touch
 #create an empty file
 - **5-execute [file]**
 chmod 700 file_name 
-#add execute permetion to the owner
-- **6-6-multiple_permissions [file]**
+#-rwx------ permission
+- **6-multiple_permissions [file]**
 chmod 554 file_name 
-#r+x permission to the owner user and group, read only for others
+#-r-xr-xr-- permission
+- **7-everybody [file]**
+chmod 777 file_name
+#-rwxrwxrwx permission
