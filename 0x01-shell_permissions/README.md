@@ -7,4 +7,7 @@ id -u -n .
 #id -n show only username instead of id 
 - **2-groups [file]**
 groups 
-#prints all the groups the current user is part of 
+#prints all the groups the current user is part of
+- **3-new_owner [file]**
+sudo shown. 
+#change file owner
