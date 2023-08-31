@@ -17,4 +17,6 @@ touch
 - **5-execute [file]**
 chmod 700 file_name 
 #add execute permetion to the owner
-
+- **6-6-multiple_permissions [file]**
+chmod 554 file_name 
+#r+x permission to the owner user and group, read only for others
