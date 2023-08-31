@@ -29,3 +29,6 @@ chmod 007 file_name
 - **9-John_Doe [fille]**
 chmod 753 file_name
 #-rwxr-x-wx permission
+- **10-mirror_permissions[file]**
+chmod --reference 
+#give same permissions to another file
