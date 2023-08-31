@@ -14,4 +14,7 @@ sudo shown.
 - **4-empty [file]**
 touch 
 #create an empty file
+- **5-execute [file]**
+chmod 700 file_name 
+#add execute permetion to the owner
 
