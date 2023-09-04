@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | hesd -n 10
+ls -t | head -n 10
